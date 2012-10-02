@@ -22,8 +22,8 @@ Options
 * moreInfoLink | link to a page with your cookie policy
 * cookieName | Name of the cookie that will be used to save you acceptance
 
-Usage
------
+How to use
+----------
 Include MooTools (or in the future jQuery), the Twitter Bootstrap CSS and include cookie-notice.js. Set your options in cookie-notice.js 
 
 Now you'll have a nice notice bar so your customers / users will know you use cookies. Which we all do, because of Facebook, Google analytics, etc.
