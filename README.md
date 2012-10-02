@@ -28,7 +28,7 @@ Include MooTools (or in the future jQuery), the Twitter Bootstrap CSS and includ
 
 Set your options in cookie-notice.js 
 
-Now you'll have a nice notice bar so your customers / users will know you use cookies. Wich we all do, because of Facebook, Google analytics, etc.
+Now you'll have a nice notice bar so your customers / users will know you use cookies. Which we all do, because of Facebook, Google analytics, etc.
 
 
 
