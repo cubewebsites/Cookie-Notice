@@ -1,7 +1,7 @@
 Cookie Notice plugin
 ====================
 
-This is a simple plugin wich either uses MooTools (or jQuery, working on it) to add a nice Cookie notice bar to your site. 
+This is a simple plugin which either uses MooTools (or jQuery, working on it) to add a nice Cookie notice bar to your site. 
 ![Screenshot](http://disain.nl/images/cookie-notice.png)
 
 Requires
