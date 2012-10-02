@@ -12,6 +12,7 @@ requires:
 
 provides: [Element]
 
+...
 */
 
 document.addEvent("domready",function()
