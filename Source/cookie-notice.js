@@ -4,15 +4,13 @@ description: This is a simple plugin which either uses MooTools (or jQuery, work
 
 license: MIT-style
 
-authors:
-- Doeke Norg
+authors: Doeke Norg
 
 requires:
-- Twitter Bootstrap
 - core/1.2.5:Element
 - core/1.2.5:Cookie
 
-provides: Element
+provides: [Element]
 
 */
 
