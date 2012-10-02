@@ -9,7 +9,7 @@ Requires
 
 * A website
 * MooTools (with cookie-support)
-* (jQuery support will come soon)
+* (a jQuery version will come soon)
 * Twitter Bootstrap CSS
 
 Options
@@ -24,9 +24,7 @@ Options
 
 Usage
 -----
-Include MooTools (or in the future jQuery), the Twitter Bootstrap CSS and include cookie-notice.js just before the closing body tag. We need this because we check if MooTools (or jQuery) has been loaded.
-
-Set your options in cookie-notice.js 
+Include MooTools (or in the future jQuery), the Twitter Bootstrap CSS and include cookie-notice.js. Set your options in cookie-notice.js 
 
 Now you'll have a nice notice bar so your customers / users will know you use cookies. Which we all do, because of Facebook, Google analytics, etc.
 
